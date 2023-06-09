@@ -1,7 +1,6 @@
 # portfolio
 <html>
   <head>
-    <title>Амир Агирбов</title>
     <link rel="stylesheet" href="style.css"/>
   </head>
   <body>
